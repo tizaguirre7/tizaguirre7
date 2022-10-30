@@ -11,5 +11,5 @@ Skills: REACT / ANGULAR / JS / HTML / CSS
 - 📫 How to reach me: teizaguirre331@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tizaguirre7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/tom%C3%A1s-izaguirre-pe%C3%B1a-579980159/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/https://es.stackoverflow.com/users/309388/tomas-izaguirre?tab=profile)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/tizaguirre7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>]([https://www.linkedin.com/in/https://www.linkedin.com/in/tom%C3%A1s-izaguirre-pe%C3%B1a-579980159/](https://www.linkedin.com/in/tom%C3%A1s-izaguirre-pe%C3%B1a-579980159))  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>]([https://stackoverflow.com/users/https://es.stackoverflow.com/users/309388/tomas-izaguirre?tab=profile](https://es.stackoverflow.com/users/309388/tomas-izaguirre?tab=profile))  
 
