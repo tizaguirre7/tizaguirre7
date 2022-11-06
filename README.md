@@ -1,6 +1,6 @@
 ### Hi there 👋, My name is Tomás Izaguirre
 #### I am front end developer
-![I am front end developer](https://www.canva.com/design/DAFRMlgQkGE/QFCxTDYHEX80RECDDVyiIQ/view)
+![I am front end developer](https://raw.githubusercontent.com/tizaguirre7/tizaguirre7/main/Tomás%20Izaguirre.png)
 
 I'm Tomas from Spain, and I do front end web development. I like learning new frameworks and languages like React and Angular. I also enjoy UI/UX design.
 
